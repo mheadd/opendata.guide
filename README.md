@@ -11,11 +11,8 @@ The original purpose of this guidebook was to provide practical guidance to City
 * Reviewing data for completeness and accuracy
 * Conducting an internal data review
 * Adding Metadata
-* Adding Terms of Use
-* Staging your data for public use
- - OpenDataPhilly.org
- - PHLAPI
- - GitHub
+* Adding a License & Terms of Use
+* Publishing data for the worls to use
 * Engaging users in the data community
 
 ## Related
