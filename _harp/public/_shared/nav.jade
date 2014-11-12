@@ -1,0 +1,7 @@
+.navbar.navbar-fixed-top.navbar-main
+  .navbar-inner
+    .container-fluid
+      a.brand(href="/") #{ name }
+      .pull-right
+        ul.nav
+          li(class="#{ current.source=='faq'?'active':'' }"): a(href="/about.html") About

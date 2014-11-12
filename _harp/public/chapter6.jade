@@ -1,0 +1,18 @@
+h1 Adding Terms of Use
+
+p Every data release from the City of Philadelphia should be accompanied by a clear statement providing terms of use to end users. If your data release is subject to special restrictions or caveats, the terms of use should state these very clearly for users.
+
+p OIT maintains a standard terms of use statement on GitHub which can be used by an city department or agency as part of their data releases. You may use this statement as is, or use it as a starting point for developing your own terms of use document.
+
+p If you are releasing your data on GitHub - discussed more fully below - you can include this standard terms of use statement in your data release as a git submodule.
+
+p <code>git submodule add https://github.com/CityOfPhiladelphia/terms-of-use.git license/</code>
+
+p This will allow you to ensure that any future changes to these terms of use can be incorporated into your data release by simply doing the following from the license/ directory:
+
+p <code>git pull</code>
+
+p 
+| More inforamtion on this approach 
+a(href='http://civic.io/2014/09/14/better-licensing-for-open-data/') can be found here
+|  .

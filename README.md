@@ -12,8 +12,12 @@ The original purpose of this guidebook was to provide practical guidance to City
 * Conducting an internal data review
 * Adding Metadata
 * Adding a License & Terms of Use
-* Publishing data for the worls to use
+* Publishing data for the world to use
 * Engaging users in the data community
+
+## Contributing
+
+This site is built using [Harp](http://harpjs.com/) and is hosted on [Github pages](https://pages.github.com/). To contribute to this guide, fork it and send a pull request or open a new item in the [issues list](https://github.com/mheadd/opendata.guide/issues).
 
 ## Related
 

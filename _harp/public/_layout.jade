@@ -1,0 +1,29 @@
+!!!5
+html(lang="en")
+  head
+    title #{ name }
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,800')
+    link(rel="stylesheet", href="/css/main.css")
+    link(rel="stylesheet", href="/css/responsive.css")
+    link(rel="stylesheet", href="/fontawesome/less/font-awesome.css")
+  body
+    !=partial("_shared/nav")
+    .container-fluid
+      .row-fluid
+        .span3
+          !=partial("_shared/index")
+        .span9
+          .main-content
+            !=yield
+    !=partial("_shared/footer")
+    script(src="/_bootstrap/docs/assets/js/jquery.js").
+    script(src="/_bootstrap/docs/assets/js/bootstrap.js").
+    script.
+      (function() {
+        var cx = '#{ custom_search_id }';
+        var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+      })();
