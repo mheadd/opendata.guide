@@ -2,7 +2,7 @@
 
 This document was created by [Mark Headd](http://civic.io/about/) during his tenure as the first Chief Data Officer for the City of Philadelphia, and is shared in the hope that it proves useful to other state and local governments wishing to start an open data program. 
 
-The original purpose of this guidebook was to provide practical guidance to City of Philadelphia departments and agencies on the release of open data to the public. It has been modified to include information used as part of an open data presentation at the 2014 Coee for America Summit.
+The original purpose of this guidebook was to provide practical guidance to City of Philadelphia departments and agencies on the release of open data to the public. It has been modified to include information used as part of an open data presentation at the 2014 Code for America Summit.
 
 ## Contents
 
