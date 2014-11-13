@@ -23,6 +23,8 @@ This site is built using [Harp](http://harpjs.com/) and is hosted on [Github pag
 
 Some amazing guides to running civic hacking events where new things can be built using open data:
 
+* Civic Innovation Toolkit: How to run a civic hackathon ([Smart Chicago Collaborative ](http://www.smartchicagocollaborative.org/civic-innovation-toolkit-how-to-run-a-civic-hackathon/))
 * So You Think You Want to Run a Hackathon? Think Again ([Laurenellen McCann](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a))
 * How to run a successful hackathon ([Joshua Tauberer](https://hackathon.guide/))
 * An inclusive community-based civic hackathon in Western Mass ([Molly McLeod](http://mollymcleod.com/an-inclusive-community-based-civic-hackathon-in-western-mass/))
+* The In-Person Event Handbook ([Shauna Gordon-McKeon](http://opensource-events.com/))
