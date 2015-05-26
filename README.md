@@ -17,7 +17,7 @@ The original purpose of this guidebook was to provide practical guidance to City
 
 ## Contributing
 
-This site is built using [Harp](http://harpjs.com/) and is hosted on [Github pages](https://pages.github.com/). To contribute to this guide, fork it and send a pull request or open a new item in the [issues list](https://github.com/mheadd/opendata.guide/issues).
+This site is built using [Harp](http://harpjs.com/) with a [boilerplate theme](https://github.com/harp-boilerplates/hb-docs) and is hosted on [Github pages](https://pages.github.com/). To contribute to this guide, fork it and send a pull request or open a new item in the [issues list](https://github.com/mheadd/opendata.guide/issues).
 
 ## Related
 
