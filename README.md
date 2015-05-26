@@ -15,10 +15,16 @@ The original purpose of this guidebook was to provide practical guidance to City
 * Publishing data for the worls to use
 * Engaging users in the data community
 
+## Contributing
+
+This site is built using [Harp](http://harpjs.com/) with a [boilerplate theme](https://github.com/harp-boilerplates/hb-docs) and is hosted on [Github pages](https://pages.github.com/). To contribute to this guide, fork it and send a pull request or open a new item in the [issues list](https://github.com/mheadd/opendata.guide/issues).
+
 ## Related
 
 Some amazing guides to running civic hacking events where new things can be built using open data:
 
+* Civic Innovation Toolkit: How to run a civic hackathon ([Smart Chicago Collaborative ](http://www.smartchicagocollaborative.org/civic-innovation-toolkit-how-to-run-a-civic-hackathon/))
 * So You Think You Want to Run a Hackathon? Think Again ([Laurenellen McCann](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a))
 * How to run a successful hackathon ([Joshua Tauberer](https://hackathon.guide/))
 * An inclusive community-based civic hackathon in Western Mass ([Molly McLeod](http://mollymcleod.com/an-inclusive-community-based-civic-hackathon-in-western-mass/))
+* The In-Person Event Handbook ([Shauna Gordon-McKeon](http://opensource-events.com/))
